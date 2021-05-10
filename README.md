@@ -1,4 +1,3 @@
 # e-learning-system
-CSE5041 Database design and development project for an E-Learning System. 
-
+CSE5041 E-Learning System Database Design and Development Project.
 
